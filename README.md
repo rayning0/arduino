@@ -4,8 +4,10 @@ We made a simple musical keyboard with 2 force sensing resistors. They make musi
 
 Simple keyboard using the tone() function: This example shows how to use the tone() command to generate different pitches depending on which sensor is pressed. 
 
-In this video of our project, he says it "sounds like a chipmunk on coke": http://www.youtube.com/watch?v=Rj7Js_hGGhw
--------------------------
+In this video of our project, he says it "sounds like a chipmunk on coke": 
+
+http://www.youtube.com/watch?v=Rj7Js_hGGhw
+**********************************************
 June 7, 2013:
 
 I've been playing with my new Arduino (http://arduino.cc/) microcontroller! See this cool YouTube video I just posted about my cool project: http://www.youtube.com/watch?v=ps2LAIPHVIM
