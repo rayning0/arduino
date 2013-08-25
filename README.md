@@ -2,7 +2,7 @@ Today (July 17, 2013) I worked with my landlord's cheeky 12-year-old son to make
 
 We made a simple musical keyboard with 2 force sensing resistors. They make music when pressed. See how much of a joker he is? Hahaha!
 
-Simple keyboard using the tone() function: This example shows how to use the tone() command to generate different pitches depending on which sensor is pressed.
+Simple keyboard using the tone() function: This example shows how to use the tone() command to generate different pitches depending on which sensor is pressed. 
 
 In this video of our project, he says it "sounds like a chipmunk on coke": http://www.youtube.com/watch?v=Rj7Js_hGGhw
 -------------------------
